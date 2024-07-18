@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chromedriver": "^126.0.4",
+    "selenium-webdriver": "^4.22.0"
+  }
+}
